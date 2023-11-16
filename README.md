@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Valentino</h1>
-<h3 align="center">An ambitious computer engineering student</h3>
+<h1 align="center">Hi, I'm Valentino 😁</h1>
 
 - 📚 I’m currently studying at UBC
-- ⚡️ I’m a project lead developing firmware for [UBC Supermileage](https://www.supermileage.ca/)
-- 💻 I recently interned at [Intel](https://www.intel.com/content/www/us/en/homepage.html) as an embedded software intern
-- 📫 How to reach me **valentino.jaber@gmail.com**
+- ⚡️ I’m a division lead developing firmware and electrical systems for [UBC Supermileage](https://www.supermileage.ca/)
+- 💻 I recently worked at [Intel](https://www.intel.com/content/www/us/en/homepage.html) as a virtual platform software engineering intern
+- 📫 I can be reached at **valentino.jaber@live.com**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
