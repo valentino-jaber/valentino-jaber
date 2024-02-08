@@ -6,7 +6,7 @@
 - I can also be reached directly at valentino.jaber@live.com
 
 <h3 align="left"> Check out my website!</h3>
-<p align="left"> <a href="valentinojaber.com">valentinojaber.com</a> </p>
+<p align="left"> <a href="https://valentinojaber.com">valentinojaber.com</a> </p>
 
 <h3 align="left">Languages</h3>
 <div>
