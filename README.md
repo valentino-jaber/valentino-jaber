@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Valentino Jaber</h1>
 
 - I'm currently studying Computer Engineering at UBC Vancouver
-- I’m the Electrical Division Lead developing firmware and electrical systems for [UBC Supermileage](https://www.supermileage.ca/)
-- I recently interned at [Intel](https://www.intel.com/content/www/us/en/homepage.html) as a virtual platform software engineer
+- I’m the Team Captain of [UBC Supermileage](https://www.supermileage.ca/), developing firmware and electrical systems for our vehicles
+- I recently interned at [Intel](https://www.intel.com/content/www/us/en/homepage.html) as a software engineering intern
 - I can also be reached directly at valentino.jaber@live.com
 
 <h3 align="left"> Check out my website!</h3>
